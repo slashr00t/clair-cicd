@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+set -x
 ts() {
     date "+%Y-%m-%d %k:%M:%S"
 }
